@@ -14,14 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danilDz/kpi-lab-1.git"
+    "url": "git+https://github.com/booravch1que/nodeJS23.git"
   },
   "author": "daniilDz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danilDz/kpi-lab-1/issues"
+    "url": "https://github.com/booravch1que/nodeJS23_2/issues"
   },
-  "homepage": "https://github.com/danilDz/kpi-lab-1#readme",
   "devDependencies": {
     "eslint": "^8.56.0",
     "eslint-config-semistandard": "^17.0.0",
